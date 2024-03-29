@@ -6,90 +6,90 @@ settings:
 
 dependencies:
   '@reduxjs/toolkit':
-    specifier: ^1.8.1
+    specifier: ^1.9.7
     version: 1.9.7(react-redux@7.2.9)(react@18.2.0)
   lodash:
     specifier: ^4.17.21
     version: 4.17.21
   next:
-    specifier: ^12.1.0
+    specifier: ^12.3.4
     version: 12.3.4(react-dom@18.2.0)(react@18.2.0)(sass@1.72.0)
   next-redux-wrapper:
     specifier: ^6.0.2
     version: 6.0.2(next@12.3.4)(react-redux@7.2.9)(react@18.2.0)
   rc-slider:
-    specifier: ^9.3.1
+    specifier: ^9.7.5
     version: 9.7.5(react-dom@18.2.0)(react@18.2.0)
   react:
-    specifier: ^18.1.0
+    specifier: ^18.2.0
     version: 18.2.0
   react-dom:
-    specifier: ^18.1.0
+    specifier: ^18.2.0
     version: 18.2.0(react@18.2.0)
   react-hook-form:
-    specifier: ^6.8.2
+    specifier: ^6.15.8
     version: 6.15.8(react@18.2.0)
   react-rater:
     specifier: ^5.1.1
     version: 5.1.1(react-dom@18.2.0)(react@18.2.0)
   react-redux:
-    specifier: ^7.2.1
+    specifier: ^7.2.9
     version: 7.2.9(react-dom@18.2.0)(react@18.2.0)
   react-select:
-    specifier: ^3.1.0
+    specifier: ^3.2.0
     version: 3.2.0(react-dom@18.2.0)(react@18.2.0)
   redux:
-    specifier: ^4.0.5
+    specifier: ^4.2.1
     version: 4.2.1
   redux-devtools-extension:
-    specifier: ^2.13.8
+    specifier: ^2.13.9
     version: 2.13.9(redux@4.2.1)
   redux-persist:
     specifier: ^6.0.0
     version: 6.0.0(react@18.2.0)(redux@4.2.1)
   redux-thunk:
-    specifier: ^2.3.0
+    specifier: ^2.4.2
     version: 2.4.2(redux@4.2.1)
   reselect:
-    specifier: ^4.0.0
+    specifier: ^4.1.8
     version: 4.1.8
   sass:
-    specifier: ^1.26.10
+    specifier: ^1.72.0
     version: 1.72.0
   swiper:
-    specifier: ^6.5.1
+    specifier: ^6.8.4
     version: 6.8.4
   swr:
-    specifier: ^0.3.2
+    specifier: ^0.3.11
     version: 0.3.11(react@18.2.0)
   use-onclickoutside:
-    specifier: ^0.3.1
+    specifier: ^0.3.2
     version: 0.3.2(@types/react@18.2.73)(react@18.2.0)
 
 devDependencies:
   '@types/lodash':
-    specifier: ^4.14.182
+    specifier: ^4.17.0
     version: 4.17.0
   '@types/node':
-    specifier: ^17.0.34
+    specifier: ^17.0.45
     version: 17.0.45
   '@types/react':
-    specifier: ^18.0.9
+    specifier: ^18.2.73
     version: 18.2.73
   '@types/react-dom':
-    specifier: ^18.0.4
-    version: 18.2.22
+    specifier: ^18.2.23
+    version: 18.2.23
   '@types/react-redux':
     specifier: ^7.1.33
     version: 7.1.33
   fslightbox-react:
-    specifier: ^1.5.0
+    specifier: ^1.7.6
     version: 1.7.6(prop-types@15.8.1)(react-dom@18.2.0)(react@18.2.0)
   node-fetch:
-    specifier: ^3.1.1
+    specifier: ^3.3.2
     version: 3.3.2
   typescript:
-    specifier: ^4.6.4
+    specifier: ^4.9.5
     version: 4.9.5
 
 packages:
@@ -380,8 +380,8 @@ packages:
   /@types/prop-types@15.7.12:
     resolution: {integrity: sha512-5zvhXYtRNRluoE/jAp4GVsSduVUzNWKkOZrCDBWYtE7biZywwdC2AcEzg+cSMLFRfVgeAFqpfNabiPjxFddV1Q==}
 
-  /@types/react-dom@18.2.22:
-    resolution: {integrity: sha512-fHkBXPeNtfvri6gdsMYyW+dW7RXFo6Ad09nLFK0VQWR7yGLai/Cyvyj696gbwYvBnhGtevUG9cET0pmUbMtoPQ==}
+  /@types/react-dom@18.2.23:
+    resolution: {integrity: sha512-ZQ71wgGOTmDYpnav2knkjr3qXdAFu0vsk8Ci5w3pGAIdj7/kKAyn+VsQDhXsmzzzepAiI9leWMmubXz690AI/A==}
     dependencies:
       '@types/react': 18.2.73
     dev: true
